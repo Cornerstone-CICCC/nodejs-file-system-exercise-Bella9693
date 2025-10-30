@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "rootDir": "./src", // server ts files
-    "outDir": "./dist", // compiled js files
-    "target": "ES6", // target ES version
-    "module": "CommonJS", // code generated
+    "target": "ES2019",
+    "module": "commonjs",
+    "rootDir": "src",
+    "outDir": "dist",
     "strict": true,
     "esModuleInterop": true
   },
